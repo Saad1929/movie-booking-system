@@ -30,3 +30,4 @@
 - **Small Runtime Overhead**: C does not come with a **heavy runtime environment or garbage collection mechanisms**, resulting in **minimal runtime overhead**.
 <a name="demo"></a>
 ## Application Screenshots
+- Application Screenshots can be found in the "Images" Folder of this repository.
