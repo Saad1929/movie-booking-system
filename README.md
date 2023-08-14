@@ -1,4 +1,4 @@
-# Movie Booking System - C
+# Movie Booking System Back-End - C
 ## Contents
 1. [ Brief Summary ](#summary)
 2. [ Aims and Motivation ](#aims)
@@ -8,3 +8,4 @@
 
 <a name="summary"></a>
 ## Brief Summary
+- I built a **Movie Booking System Back-End** using C.
