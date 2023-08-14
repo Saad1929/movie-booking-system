@@ -9,3 +9,6 @@
 <a name="summary"></a>
 ## Brief Summary
 - **Personal Project** which involved building a **Movie Booking System Back-End** using C.
+
+<a name="aims"></a>
+## 🎯Aims and Motivation
