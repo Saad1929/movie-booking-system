@@ -14,3 +14,6 @@
 ## 🎯Aims and Motivation
 - The main objective of this project was to create a thorough **Back-End Application** using **C**.
 - Driven by an **unwavering enthusiasm** for **learning and self-improvement**, I dedicated my **personal time** to meticulously **develop and refine this Back-End Application**.
+<a name="tech"></a>
+## ⚙️Technologies, Requirements and Software Tools
+
