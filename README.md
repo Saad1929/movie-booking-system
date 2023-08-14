@@ -4,7 +4,6 @@
 2. [ Aims and Motivation ](#aims)
 3. [ Technologies, Requirements and Software Tools ](#tech)
 4. [ Design ](#design)
-5. [ Application Screenshots ](#demo)
 
 <a name="summary"></a>
 ## Brief Summary
@@ -28,6 +27,3 @@
 - **Performance**: C exhibits an **excellent performance** due to its **low-level memory manipulation capabilities**, allowing for **high performance and minimal overhead**.
 - **Efficient Memory Management**: C provides **direct control over memory allocation and deallocation**.
 - **Small Runtime Overhead**: C does not come with a **heavy runtime environment or garbage collection mechanisms**, resulting in **minimal runtime overhead**.
-<a name="demo"></a>
-## Application Screenshots
-- Application Screenshots can be found in the "Images" Folder of this repository.
