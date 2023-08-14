@@ -12,3 +12,4 @@
 
 <a name="aims"></a>
 ## 🎯Aims and Motivation
+- The main objective of this project was to create a thorough **Back-End Application** using **C**.
