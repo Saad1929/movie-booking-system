@@ -22,3 +22,5 @@
 - **MySQLWorkbench** played a role where the **back-end** relied on this technology to **store user information**.
 - **CLion** was used as an **Integrated Development Environment (IDE)**.
 - **VSCode** was used as an **Integrated Development Environment (IDE)**.
+<a name="design"></a>
+## ✏️Design - Front-end
