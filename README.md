@@ -5,3 +5,6 @@
 3. [ Technologies, Requirements and Software Tools ](#tech)
 4. [ Design ](#design)
 5. [ Application Screenshots ](#demo)
+
+<a name="summary"></a>
+## Brief Summary
