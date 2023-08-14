@@ -18,3 +18,7 @@
 ## ⚙️Technologies, Requirements and Software Tools
 ### Programming and Scripting Languages
 - C
+### Other Software Tools
+- **MySQLWorkbench** played a role where the **back-end** relied on this technology to **store user information**.
+- **CLion** was used as an **Integrated Development Environment (IDE)**.
+- **VSCode** was used as an **Integrated Development Environment (IDE)**.
