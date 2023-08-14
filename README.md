@@ -16,4 +16,5 @@
 - Driven by an **unwavering enthusiasm** for **learning and self-improvement**, I dedicated my **personal time** to meticulously **develop and refine this Back-End Application**.
 <a name="tech"></a>
 ## ⚙️Technologies, Requirements and Software Tools
-
+### Programming and Scripting Languages
+- C
